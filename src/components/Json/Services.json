@@ -1,0 +1,123 @@
+{
+  "services": [
+    {
+      "title": "Brake Services",
+      "description": "Ensure your brakes are functioning optimally with our comprehensive brake services.",
+      "image": "../../../../assets/pictures/brakes.jpg",
+      "products": [
+        {
+          "name": "Brake Pad",
+          "price": "$30",
+          "image": "../../../../assets/pictures/BrakePad.png"
+        },
+        {
+          "name": "Brake Rotor",
+          "price": "$50",
+          "image": "../../../../assets/pictures/BrakeRot.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Engine Repair",
+      "description": "Our expert mechanics provide reliable engine repair services to keep your vehicle running smoothly.",
+      "image": "../../../../assets/pictures/engine.jpeg",
+      "products": [
+        {
+          "name": "Radiator",
+          "price": "$25",
+          "image": "../../../../assets/pictures/Radiator.jpg"
+        },
+        {
+          "name": "Connecting Rod",
+          "price": "$15",
+          "image": "../../../../assets/pictures/Rod.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Oil Change",
+      "description": "Regular oil changes are essential for maintaining your vehicle's health and performance.",
+      "image": "../../../../assets/pictures/oil.jpeg",
+      "products": [
+        {
+          "name": "Synthetic Oil",
+          "price": "$45",
+          "image": "../../../../assets/pictures/Synthetic.webp"
+        },
+        {
+          "name": "Conventional Oil",
+          "price": "$30",
+          "image": "../../../../assets/pictures/Conventional.webp"
+        }
+      ]
+    },
+    {
+      "title": "Steering Wheels",
+      "description": "Discover the ultimate in comfort and control with our selection of high-quality steering wheels.",
+      "image": "../../../../assets/pictures/steeringWheel.jpg",
+      "products": [
+        {
+          "name": "Sport Steering Wheel",
+          "price": "$150",
+          "image": "../../../../assets/pictures/SportSteering.webp"
+        },
+        {
+          "name": "Leather Steering Wheel",
+          "price": "$120",
+          "image": "../../../../assets/pictures/LeatherWheel.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Springs",
+      "description": "We offer a wide selection of high-performance springs designed to enhance your vehicle's suspension system.",
+      "image": "../../../../assets/pictures/springs.jpg",
+      "products": [
+        {
+          "name": "Coil Spring",
+          "price": "$80",
+          "image": "../../../../assets/pictures/CoilSpring.jpg"
+        },
+        {
+          "name": "Leaf Spring",
+          "price": "$100",
+          "image": "../../../../assets/pictures/LeafSpring.webp"
+        }
+      ]
+    },
+    {
+      "title": "Tires",
+      "description": "Discover superior performance and reliability with the extensive selection of tires.",
+      "image": "../../../../assets/pictures/tire.jpeg",
+      "products": [
+        {
+          "name": "All-Season Tire",
+          "price": "$100",
+          "image": "../../../../assets/pictures/AllSeason.jpeg"
+        },
+        {
+          "name": "Winter Tire",
+          "price": "$120",
+          "image": "../../../../assets/pictures/WinterTire.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Exhaust",
+      "description": "Enhance Performance and Efficiency with Quality Exhaust Systems.",
+      "image": "../../../../assets/pictures/exhaust.jpg",
+      "products": [
+        {
+          "name": "Exhaust Pipe",
+          "price": "$70",
+          "image": "../../../../assets/pictures/Pipe.webp"
+        },
+        {
+          "name": "Muffler",
+          "price": "$90",
+          "image": "../../../../assets/pictures/Muffler.jpg"
+        }
+      ]
+    }
+  ]
+}
